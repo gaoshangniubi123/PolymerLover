@@ -35,8 +35,8 @@ Here's the data of our application:
 
 - Contract (OP Sepolia) : 0xac3d517d5ed9f0715eA067aA0b437A0aF5E28697
 - Contract (Base Sepolia): 0xac3d517d5ed9f0715eA067aA0b437A0aF5E28697
-- Channel (OP Sepolia): 0xac3d517d5ed9f0715eA067aA0b437A0aF5E28697
-- Channel (Base Sepolia): 0xac3d517d5ed9f0715eA067aA0b437A0aF5E28697
+- Channel (OP Sepolia): channel-10
+- Channel (Base Sepolia): channel-11
 
 - Proof of Testnet interaction:
     - [SendTx](https://optimism-sepolia.blockscout.com/tx/0x9effaf67d7f35cbad354c5ce0f25ade9941615914662d055fee65a88bdba0df8)
