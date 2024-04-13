@@ -48,6 +48,8 @@ Create an application with polymer
 
 Create links between more chains
 
+## Frontend
+![](https://github.com/gaoshangniubi123/PolymerLover/blob/main/polymer_frontend.png)
 
 ## License
 Apache 2.0
